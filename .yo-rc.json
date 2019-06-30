@@ -1,0 +1,34 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.kone.uaa"
+    },
+    "jhipsterVersion": "6.1.1",
+    "applicationType": "uaa",
+    "baseName": "koneuaa",
+    "packageName": "com.kone.uaa",
+    "packageFolder": "com/kone/uaa",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZWRiYjYzMGJmOTY0Mzg1NTYyOGFhMWVkNTM4YmVjZTI2ODQ5YWQ3ZTliYzY4NjQwZWY2NzljNWMwYWFkNjk5ZjZiYzM2ODBjYzkxYTM0MDU2YWRjOGM1ZGNlMjU5NGU4NmI5ODc5YjBlZmUwM2M5ZTgwZGNmZWNhNWNmMjQ3ODk=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true
+  }
+}
